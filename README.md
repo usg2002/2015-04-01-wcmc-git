@@ -8,6 +8,7 @@ This project was inspired (and modeled off) by:
 [Noble WS 2009 A Quick Guide to Organizing Computational Biology Projects. PLoS Comput Biol 5 7: e1000424. doi:10.1371/journal.pcbi.1000424](http://dx.doi.org/10.1371/journal.pcbi.1000424)
 
 ## What it does
+<<<<<<< HEAD
 the `setup_project_dir.sh` script creates the following folder structure:
 
     Path_Provided
@@ -66,6 +67,9 @@ This project was inspired (and modeled off) by:
 
 ## What it does
 the Usage: ./setup_project_dir.sh [target directory] script creates the following folder structure:
+=======
+the  script creates the following folder structure:
+>>>>>>> 0141885ca8e6ad42a0673b516212ecbf0eb5110f
 
     Path_Provided
     |- doc/           # directory for documentation, one subdirectory for manuscript
